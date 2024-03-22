@@ -4,21 +4,27 @@ Anna Krzywiecka 21.03.2024 This git repository is about git
 ## Starting
 1. First step
 
+
 '''  
 git config --global user.name "your_username"  
 '''
 
+
 2. Second step
+
 
 '''  
 git config --global user.email youremail@example.com  
 '''
 
+
 3. Third step
+
 
 '''  
 git clone 'https.or.ssh.of.repository.on.github.'  
 '''
+
 
 ## Basics 
 * add
